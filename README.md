@@ -9,8 +9,8 @@ My solutions to [Exercism](https://exercism.org) programming challenges.
 
 ## Exercises by Track
 ### Python
-- Guido's Gorgeous Lasagna — Learn the basics of Python by cooking Guido's Gorgeous Lasagna. 
-- Ghost Gobble Arcade Game — Learn about bools by setting up the rules for the Ghost Gobble arcade game. 
+- Guido's Gorgeous Lasagna — Learn the basics of Python
+- Ghost Gobble Arcade Game — Basic Bools
 - Currency Exchange — Basics about numbers
 - Meltdown Mitigation — Conditional usage
 - Hello World — Classic
